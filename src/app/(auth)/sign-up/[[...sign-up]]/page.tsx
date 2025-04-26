@@ -1,5 +1,7 @@
+import Signup from "@/components/Modals/Signup";
+
 const SignUp = () => {
-  return <div>Sign Up</div>
+  return <Signup />
 }
 
 export default SignUp;

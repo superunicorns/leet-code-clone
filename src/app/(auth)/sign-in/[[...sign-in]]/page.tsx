@@ -1,8 +1,8 @@
-import React from 'react'
+import LogIn from '@/components/Modals/Login';
 
 const SignIn = () => {
   return (
-    <div>SignIn</div>
+    <LogIn />
   )
 }
 
