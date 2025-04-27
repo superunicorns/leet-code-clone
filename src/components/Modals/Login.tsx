@@ -33,7 +33,7 @@ const LogIn = () => {
 				</Link>
 			</button>
 			<div className="text-sm font-medium text-gray-300">
-				Not Registered? <Link href="/" className="text-blue-700 hover:underline ml-1">Create Account</Link>
+				Not Registered? <Link href="/sign-up" className="text-blue-700 hover:underline ml-1 cursor-pointer">Create Account</Link>
 			</div>
 		</form> 
 	)
